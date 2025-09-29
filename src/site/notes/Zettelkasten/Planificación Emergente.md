@@ -10,4 +10,8 @@ Se trata sobre *planificar la emergencia*. No se pueden planificar los [[Sistema
 2. Ya esta
 A mayor sea el espacio o flexibilidad de interacción entre sistemas, mas complejo sera el sistema emergente.
 ## Referencias
-Se me fue revelado en un sueño
+It's always around me all this noise, but
+not nearly as loud as the voice, saying
+let it happen, let it happen
+(it's gonna feel so good)
+just, let it happen, let it happen

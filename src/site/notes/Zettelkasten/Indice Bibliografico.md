@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/indice-bibliografico/","tags":["Zettelkasten","Evergreen","Indice"]}
+{"dg-publish":true,"permalink":"/zettelkasten/indice-bibliografico/","tags":["Indice"]}
 ---
 
 # Indice Bibliografico
@@ -13,3 +13,5 @@ Es por eso tambien que creo una nota aqui para cada referencia zotero. De esa fo
 ## Referencias
 
 [[Zettelkasten/How to take smart notes\|How to take smart notes]]
+[[Zettelkasten/(Referencia)YAWL An open source Business Process Management System from science for science\|(Referencia)YAWL An open source Business Process Management System from science for science]]
+[[Zettelkasten/(Referencia)Understanding Petri Nets\|(Referencia)Understanding Petri Nets]]
