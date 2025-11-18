@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/referencia-understanding-petri-nets/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/referencia-understanding-petri-nets/"}
 ---
 
 # (Referencia)Understanding Petri Nets: Modeling Techniques, Analysis Methods, Case Studies

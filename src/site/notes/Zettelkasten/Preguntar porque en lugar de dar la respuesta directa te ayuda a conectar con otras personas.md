@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/preguntar-porque-en-lugar-de-dar-la-respuesta-directa-te-ayuda-a-conectar-con-otras-personas/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/preguntar-porque-en-lugar-de-dar-la-respuesta-directa-te-ayuda-a-conectar-con-otras-personas/"}
 ---
 
 # Preguntar porque en lugar de dar la respuesta directa te ayuda a conectar con otras personas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/la-brujula-de-que-deberias-hacer/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/la-brujula-de-que-deberias-hacer/"}
 ---
 
 # La brujula de que deberias hacer

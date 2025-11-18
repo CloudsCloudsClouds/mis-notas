@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/no-confundas-mapa-y-terreno/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/no-confundas-mapa-y-terreno/"}
 ---
 
 # No confundas mapa y terreno

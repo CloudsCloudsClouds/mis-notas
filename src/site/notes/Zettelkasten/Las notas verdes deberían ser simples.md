@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/las-notas-verdes-deberian-ser-simples/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/las-notas-verdes-deberian-ser-simples/"}
 ---
 
 # Las notas verdes deberían ser simples

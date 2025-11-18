@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/los-sistemas-de-almacenamiento-volatiles-son-para-almacenar-archivos-que-no-esperes-que-vuelvan/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/los-sistemas-de-almacenamiento-volatiles-son-para-almacenar-archivos-que-no-esperes-que-vuelvan/"}
 ---
 
 # Los sistemas de almacenamiento volatiles son para almacenar archivos que no esperes que vuelvan

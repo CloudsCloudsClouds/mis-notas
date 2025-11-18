@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/las-notas-verdes-deberian-ser-atomicas/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/las-notas-verdes-deberian-ser-atomicas/"}
 ---
 
 # Las notas verdes deberian ser atomicas

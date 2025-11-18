@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/hacer-un-indice-de-hilos-tematicos-resulta-sumamente-conveniente-para-la-busqueda-de-grandes-tematicas/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/hacer-un-indice-de-hilos-tematicos-resulta-sumamente-conveniente-para-la-busqueda-de-grandes-tematicas/"}
 ---
 
 # Hacer un indice de hilos tematicos resulta sumamente conveniente para la busqueda de grandes tematicas

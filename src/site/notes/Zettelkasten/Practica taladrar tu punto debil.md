@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/practica-taladrar-tu-punto-debil/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/practica-taladrar-tu-punto-debil/"}
 ---
 
 # Practica taladrar tu punto debil

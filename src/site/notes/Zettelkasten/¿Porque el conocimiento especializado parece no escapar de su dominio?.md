@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/porque-el-conocimiento-especializado-parece-no-escapar-de-su-dominio/","tags":["Zettelkasten","Pregunta"]}
+{"dg-publish":true,"permalink":"/zettelkasten/porque-el-conocimiento-especializado-parece-no-escapar-de-su-dominio/","tags":["Pregunta"]}
 ---
 
 # ¿Porque el conocimiento especializado parece no escapar de su dominio?

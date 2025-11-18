@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/la-regla-de-soldar-del-1-2-3/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/la-regla-de-soldar-del-1-2-3/"}
 ---
 
 # La regla de soldar del 1-2-3

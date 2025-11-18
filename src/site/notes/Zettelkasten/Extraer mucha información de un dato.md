@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/extraer-mucha-informacion-de-un-dato/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/extraer-mucha-informacion-de-un-dato/"}
 ---
 
 # Extraer mucha información de un dato

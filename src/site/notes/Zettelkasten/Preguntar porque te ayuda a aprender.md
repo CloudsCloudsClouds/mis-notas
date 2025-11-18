@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/preguntar-porque-te-ayuda-a-aprender/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/preguntar-porque-te-ayuda-a-aprender/"}
 ---
 
 # Preguntar porque te ayuda a aprender

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/el-orden-limita-el-surgimiento/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/el-orden-limita-el-surgimiento/"}
 ---
 
 # El orden limita el surgimiento

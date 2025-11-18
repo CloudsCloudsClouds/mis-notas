@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/comparte-tu-trabajo-con-el-garaje-abierto/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/comparte-tu-trabajo-con-el-garaje-abierto/"}
 ---
 
 # Comparte tu trabajo con el garaje abierto

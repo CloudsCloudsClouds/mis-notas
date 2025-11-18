@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fragmentacion-excesiva-de-un-sistema/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/fragmentacion-excesiva-de-un-sistema/"}
 ---
 
 # Fragmentacion excesiva de un sistema

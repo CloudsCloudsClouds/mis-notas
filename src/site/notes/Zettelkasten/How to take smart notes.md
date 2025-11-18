@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/how-to-take-smart-notes/","tags":["Zettelkasten","Evergreen","Referencia"]}
+{"dg-publish":true,"permalink":"/zettelkasten/how-to-take-smart-notes/","tags":["Referencia"]}
 ---
 
 # How to take smart notes

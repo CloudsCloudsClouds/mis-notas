@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/compartir-enriquece-tu-trabajo/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/compartir-enriquece-tu-trabajo/"}
 ---
 
 # Compartir enriquece tu trabajo

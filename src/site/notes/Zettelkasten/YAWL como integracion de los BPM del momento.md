@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/yawl-como-integracion-de-los-bpm-del-momento/","tags":["Zettelkasten","Evergreen","ProyectoIntegradorUNI"]}
+{"dg-publish":true,"permalink":"/zettelkasten/yawl-como-integracion-de-los-bpm-del-momento/","tags":["ProyectoIntegradorUNI"]}
 ---
 
 # YAWL como integracion de los BPM del momento

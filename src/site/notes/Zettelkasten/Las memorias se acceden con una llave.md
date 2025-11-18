@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/las-memorias-se-acceden-con-una-llave/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/las-memorias-se-acceden-con-una-llave/"}
 ---
 
 # Las memorias se acceden con una llave

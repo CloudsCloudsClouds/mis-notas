@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/las-enciclopedias-son-laberintos/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/las-enciclopedias-son-laberintos/"}
 ---
 
 # Las enciclopedias son laberintos

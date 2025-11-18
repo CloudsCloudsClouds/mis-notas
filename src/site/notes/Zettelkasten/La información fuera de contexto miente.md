@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/la-informacion-fuera-de-contexto-miente/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/la-informacion-fuera-de-contexto-miente/"}
 ---
 
 # La información fuera de contexto miente

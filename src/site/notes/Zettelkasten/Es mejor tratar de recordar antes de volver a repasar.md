@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/es-mejor-tratar-de-recordar-antes-de-volver-a-repasar/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/es-mejor-tratar-de-recordar-antes-de-volver-a-repasar/"}
 ---
 
 # Es mejor tratar de recordar antes de volver a repasar

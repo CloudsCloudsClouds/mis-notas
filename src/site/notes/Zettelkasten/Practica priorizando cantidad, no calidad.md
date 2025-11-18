@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/practica-priorizando-cantidad-no-calidad/","tags":["Evergreen","Zettelkasten"]}
+{"dg-publish":true,"permalink":"/zettelkasten/practica-priorizando-cantidad-no-calidad/"}
 ---
 
 # Practica priorizando cantidad, no calidad

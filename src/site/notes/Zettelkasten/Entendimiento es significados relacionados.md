@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/entendimiento-es-significados-relacionados/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/entendimiento-es-significados-relacionados/"}
 ---
 
 # Entendimiento es significados relacionados

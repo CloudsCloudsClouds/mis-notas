@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/las-notas-verdes-se-relacionan/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/las-notas-verdes-se-relacionan/"}
 ---
 
 # Las notas verdes se relacionan

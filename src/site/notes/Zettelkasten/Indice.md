@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/indice/","tags":["Zettelkasten","Evergreen","Indice","gardenEntry"]}
+{"dg-publish":true,"permalink":"/zettelkasten/indice/","tags":["Indice","gardenEntry"]}
 ---
 
 # Indice

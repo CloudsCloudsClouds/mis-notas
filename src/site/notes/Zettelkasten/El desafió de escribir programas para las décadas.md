@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/el-desafio-de-escribir-programas-para-las-decadas/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/el-desafio-de-escribir-programas-para-las-decadas/"}
 ---
 
 # El desafió de escribir programas para las décadas

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/cierto-nivel-de-dificultad-es-deseada-para-aprender/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/cierto-nivel-de-dificultad-es-deseada-para-aprender/"}
 ---
 
 # Cierto nivel de dificultad es deseada para aprender

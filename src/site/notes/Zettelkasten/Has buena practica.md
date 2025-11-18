@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/has-buena-practica/","tags":["Evergreen","Zettelkasten"]}
+{"dg-publish":true,"permalink":"/zettelkasten/has-buena-practica/"}
 ---
 
 # Has buena practica

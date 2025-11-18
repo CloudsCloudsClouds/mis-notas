@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/has-publico-tu-progreso/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/has-publico-tu-progreso/"}
 ---
 
 # Has publico tu progreso

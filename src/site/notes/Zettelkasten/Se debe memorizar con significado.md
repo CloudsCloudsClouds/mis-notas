@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/se-debe-memorizar-con-significado/","tags":["Zettelkasten","Evergreen"]}
+{"dg-publish":true,"permalink":"/zettelkasten/se-debe-memorizar-con-significado/"}
 ---
 
 # Se debe memorizar con significado
